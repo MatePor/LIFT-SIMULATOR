@@ -9,12 +9,6 @@ Person::Person(int x, int y)
     positionY = ((6 - StartingFloor) * 80) + 10;
 }
 
-Person::~Person()
-{
-	
-}
-
-
 int Person::getDestination()
 {
 	return Destination;
