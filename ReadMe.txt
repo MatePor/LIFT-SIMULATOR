@@ -1,3 +1,14 @@
+Techniki Programowania 2020 - Projekt nr 4
+ACiR 1. 180149 180030
+=== Symulator windy ===
+
+INSTRUKCJA:
+- |START| -  odświeża obraz, inicjalizuje rysunki
+- |CALL| - przywołanie windy na piętro wskazywane przez "floor to go"
+- |SPAWN PERSON| - tworzenie ludzika na piętrze "floor to spawn", który będzie chciał pojechać na piętro "floor to go" 
+- |-1| i |+1| - zmiana piętra na którym ma pojawić się ludzik
+- |5|,|4|,|3|,|2|,|1|,|0| - przyciski do wyboru piętra docelowego dla ludzika lub ręcznego przyzwania przyciskiem |CALL|
+
 ========================================================================
     WIN32 APPLICATION : draw2 Project Overview
 ========================================================================
