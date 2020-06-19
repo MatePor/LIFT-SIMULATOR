@@ -5,7 +5,6 @@ class Person
 {
 	public:
 		Person(int x, int y);
-		~Person();
 		int getFloor();
 		int getDestination();
 		int positionX = 0;
